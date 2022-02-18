@@ -74,7 +74,7 @@ const Board = () => {
   return (
     <main>
       <div className="params">
-        <h3>Choose diffuclty level</h3>
+        <h3>Choose difficulty level</h3>
         <div>
           <button
             onClick={() => setDepth(0)}
